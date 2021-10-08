@@ -27,6 +27,7 @@ const novaTarefa = document.querySelector('[data-form-button]')      //puxa o bo
 
 novaTarefa.addEventListener('click', criarTarefa)                   // aciona um listener no botato NOVO ITEM ao clicar executa funcao criarTarefa
 
+//teste de futricar o arquivo alheio
 
 
 
